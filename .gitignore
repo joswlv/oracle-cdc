@@ -1,0 +1,9 @@
+.idea/
+*.iml
+target/
+.gradle
+build/
+out/
+.DS_Store
+.AppleDouble
+.LSOverride
